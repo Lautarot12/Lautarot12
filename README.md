@@ -1,43 +1,57 @@
 # Hi, I'm Lautaro 👋
 
-Junior Full Stack Developer focused on the JavaScript ecosystem.
+Partnerships Manager at CatchCorner by Sports Illustrated and Full Stack Development student focused on building software with the JavaScript ecosystem.
 
-I enjoy building web applications and learning new technologies while improving my problem solving skills.
+I currently work with sports facilities across North America, managing partnerships, outreach and account growth while continuing to develop my software engineering skills through real-world projects.
 
-Currently expanding my backend knowledge by building REST APIs with Node.js and MongoDB.
+Recently, I built a complete authentication system using Node.js, MongoDB, JWT, Passport.js and GitHub OAuth, alongside several frontend and backend projects using the JavaScript stack.
 
 ## Tech Stack
 
-JavaScript  
-React  
-Node.js  
-Express  
-MongoDB  
-HTML  
-CSS  
-Git  
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* JWT
+* Passport.js
+* HTML
+* CSS
+* Git
+* GitHub
 
-## Projects
+## Featured Projects
 
-### React Ecommerce – Avicola Tello
+### Authentication System with JWT and GitHub OAuth
+
+Node.js | Express | MongoDB | Passport.js | JWT
+
+Authentication and authorization system featuring local authentication, GitHub OAuth, secure cookies and role-based access control.
+
+### Avícola Tello Ecommerce
+
 React | Firebase
 
-Ecommerce project built for a local business with product catalog, cart functionality and responsive design.
+Ecommerce application built for a local business featuring product catalog, cart functionality and responsive design.
 
-### Responsive Website
-HTML | CSS | SCSS
+### Ecommerce Backend API
 
-Responsive website focused on layout design and clean UI.
+Node.js | Express | MongoDB
 
-### JavaScript Web Project
-JavaScript | HTML | CSS
+REST API for managing products and shopping carts using MongoDB and Mongoose.
 
-Interactive project practicing DOM manipulation and client side logic.
+## Currently Learning
 
-## Contact
+* Backend Architecture
+* Authentication & Authorization
+* REST APIs
+* Software Engineering Fundamentals
 
-LinkedIn  
-linkedin.com/in/lautaro-tello-5a2832321
+## Connect With Me
 
-Email  
-lautaro_t11@hotmail.com
+LinkedIn:
+[www.linkedin.com/in/lautaro-tello-5a2832321](http://www.linkedin.com/in/lautaro-tello-5a2832321)
+
+Email:
+[lautaro_t11@hotmail.com](mailto:lautaro_t11@hotmail.com)
